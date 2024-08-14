@@ -35,19 +35,13 @@ Essa aplicação é útil em cenários onde é necessário armazenar e gerenciar
         )?;
    ```
 
-3. **Build do Projeto:**
-   - Para compilar o aplicativo para produção, navegue até o Diretório `./CODIGO`, e digite o seguinte comando no Terminal:
-     ```bash
-     cargo build
-     ```
-
-4. **Execução do Projeto:**
-   - Para iniciar o aplicativo, digite o seguinte comando no Terminal:
+3. **Execução do Projeto:**
+   - Para iniciar o aplicativo digite o seguinte comando no Terminal:
      ```bash
      cargo run
      ```
 
-5. **Interagindo com Aplicativo:**
+4. **Interagindo com Aplicativo:**
    1. **Adicionando um Usuário**:
       - Selecione a opção `1`.
       - Digite o nome do usuário e pressione Enter.
